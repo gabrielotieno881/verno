@@ -1,2 +1,2 @@
 # verno
-bridging ancentral knowlege with AI precision
+bridging ancestral knowledge with AI precision
